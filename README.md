@@ -1,7 +1,9 @@
 # Recommending-using-Machine-Learning
 Let's use basic machine learning to make a recommendation system
 
+![recommendation-engine-banner](https://user-images.githubusercontent.com/118930159/221512726-55bfbd6b-26f8-4460-99a0-510587a380d6.png)
 
+   
 
 
 Description of the project:
