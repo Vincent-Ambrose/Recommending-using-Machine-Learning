@@ -9,9 +9,9 @@ Let's use basic machine learning to make a recommendation system
 Description of the project:
 
 A Mobile company is not satisfied to see that many of its customers are using inherited plans. 
-They want to develop a model that can analyze customer's behavior and recommend one of Megaline's new plans: 
+They want to develop a model that can analyze customer's behavior and recommend one of its new plans: 
 Smart or Ultra.
-Basic machine learning algorithms will be used to make a recommending system
+Basic machine learning algorithms will be used to create a recommending system.
 
 
 The project is done in VS code with Jupyter Notebook extension.
